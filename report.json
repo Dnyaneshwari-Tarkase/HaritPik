@@ -1,0 +1,18 @@
+{
+  "Crop": "Tomato",
+  "Condition": "Early Blight",
+  "Confidence": "92%",
+  "Severity": "Medium",
+  "Causes": ["Fungal infection (Alternaria solani)", "High humidity", "Overhead irrigation", "Poor air circulation"],
+  "Treatment": {
+      "Chemical": ["1. Remove and burn heavily infected leaves.", "2. Mix 2 grams of Mancozeb powder in 1 liter of water.", "3. Spray the solution thoroughly on both sides of the leaves."],
+      "Organic": ["1. Remove infected leaves and bury them deep in soil.", "2. Mix 5ml of Neem oil and 2 drops of liquid soap in 1 liter of water.", "3. Spray every 7-10 days until symptoms stop."]
+  },
+  "PreventionTips": ["Rotate crops annually (avoid planting tomatoes or potatoes in the same spot)", "Use mulch to prevent soil splashing onto leaves", "Provide proper spacing between plants for better airflow", "Water plants at the base, not on the foliage"],
+  "ImmediateActionRequired": "Yes",
+  "LanguageOutput": {
+      "English": "Your tomato plant shows signs of Early Blight. Apply Mancozeb spray or neem oil immediately and remove affected leaves. Avoid overhead watering and rotate crops next season.",
+      "Marathi": "तुमच्या टोमॅटोच्या पिकावर 'अर्ली बलाईट' (करपा) दिसत आहे. लगेच मँकोझेब फवारणी करा किंवा निम तेलाचा वापर करा आणि बाधित पाने काढून टाका. झाडांना वरून पाणी देणे टाळा आणि पुढच्या हंगामात पीक बदल करा.",
+      "Hindi": "आपके टमाटर के पौधे में 'अर्ली ब्लाइट' (अगेती झुलसा) के लक्षण हैं। तुरंत मन्कोजेब छिड़काव करें या नीम के तेल का उपयोग करें और प्रभावित पत्तों को हटा दें। ऊपर से पानी देना बंद करें और अगले सीजन में फसल बदलें।"
+  }
+}
